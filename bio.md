@@ -10,4 +10,8 @@ Additional things
 -My favorite food is Vietnamese and Japanese food!
 
 Programming Experience:
--beginner in C++, C#, Ruby, 
+-beginner in C++, C#, Ruby
+
+
+Adding more things here:
+Another fun fact about me is that my fastest mile time was 5:32. 
