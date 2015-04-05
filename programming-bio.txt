@@ -1,3 +1,6 @@
 Programming Background
 
+One of my favorite languages to work in is Ruby. I've created a twitter bot and reddit bot using it. It truly was made with programmer happiness in mind. 
+
+I would like to learn Ruby-on-rails to complement my Ruby knowledge.
 
