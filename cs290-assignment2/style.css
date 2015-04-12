@@ -1,0 +1,17 @@
+dt:hover + dd{
+    background:purple;
+}
+
+.outer{
+	width:75%;
+	background:pink;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.inner{
+	height:20px;
+	width:75%;
+	background:#99CCFF;
+	margin: auto;
+}
