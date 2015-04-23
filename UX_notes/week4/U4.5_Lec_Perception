@@ -1,0 +1,48 @@
+Perception:
+-occurs in the senses
+
+-senses are good at detecting change. Lack of movement= loss of perception/senses
+
+Design implications that can reach the brain
+
+SIGHT: 
+-Color-Blindness:: red/green
+:Color-- hue, light, saturation
+
+Sound:
+
+Touch
+
+Motor System- IO, etc
+
+Interruptions:
+-immediate
+-mediated
+-schedules
+-negotiated
+
+Unit 4.6 Lecture: Mental Models
+
+- why do users build these?
+- if the user's mental model is correct, it will be a lot easier using the program/whatever
+
+How to get the user's mental model correct?
+Gulf of Evaluation- what is the effect of what I just did?
+Guld of Execution- how do I do what i want to do?
+
+1) useful feedback in the UI (gulf of evaluation)
+2) make the UI consistent
+3) context sensitive devices for guidance
+
+7 parts of an action:
+1. goals- what we are trying to do (not how)
+2. execution intention (high level how)
+3. execution sequence of action (first, second, third....)
+4. execution physical actions ()
+5. evaluation: perceiving
+6. eval: interpretation
+7. eval: comparison of interpretation to goal
+
+
+
+
